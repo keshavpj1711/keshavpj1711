@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keshav Prajapati</h1>
 <h3 align="center">I'm a passionate explorer in the world of development, constantly soaking up knowledge and diverse perspectives as I forge my own path to personal satisfaction.</h3>
 
-- 🔭 I’m currently working on [Flashcard App](https://github.com/keshavpj1711/Python_100-Days/tree/main/Day-wise%20assortment/Intermediate/Day%2031%20-%20Capstone)
+- 🔭 I’m currently working on [URL Shortener](https://github.com/keshavpj1711/Shorten-those-links)
 
 - 🌱 I’m currently learning **GO, JavaScript, Python and many new stuff in my journey**
 
