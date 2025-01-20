@@ -41,7 +41,7 @@
 
 ![Keshav's Stats](https://github-readme-stats.vercel.app/api?username=keshavpj1711&theme=tokyonight&show_icons=true&custom_title=My-Stats)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=keshavpj1711&theme=tokyonight&hide_border=false&custom_width=)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=keshavpj1711&theme=tokyonight)](https://git.io/streak-stats)
 
 
 # 🏆 GitHub Trophies
