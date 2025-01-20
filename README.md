@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Keshav Prajapati</h1>
 <h3 align="center">I'm a passionate explorer in the world of development, constantly soaking up knowledge and diverse perspectives as I forge my own path to personal satisfaction.</h3>
 
-- 🔭 I’m currently working on [SoMA](https://github.com/keshavpj1711/soma)
+- 🔭 I’m currently working on [Search Engine](https://github.com/keshavpj1711/Search-Engine)
 
-- 🌱 I’m currently learning **GO and Python**
+- 🌱 I’m currently learning **C++ and Python**
 
 - 👨‍💻 All of my projects are available at [Comingsoon....](Comingsoon....)
 
