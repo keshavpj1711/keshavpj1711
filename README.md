@@ -37,7 +37,7 @@
 
 <h1 align="center">📊 GitHub Stats:</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavpj1711&layout=compact&theme=tokyonight&custom_title=Weapons&card_width=465&langs_count=8&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavpj1711&layout=compact&theme=tokyonight&custom_title=Weapons&card_width=465&langs_count=8&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Keshav's Stats](https://github-readme-stats.vercel.app/api?username=keshavpj1711&theme=tokyonight&show_icons=true&custom_title=My-Stats)
 
