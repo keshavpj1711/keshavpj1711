@@ -9,6 +9,12 @@
 
 <br>
 
+<h1 align="center">🧰 Projects</h1>
+
+Comming Soon...
+
+<br>
+
 <h1 align="center">🐧Language and Tools</h1>
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
@@ -48,6 +54,6 @@
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=keshavpj1711&theme=tokyonight&card_width=465)](https://git.io/streak-stats)
 
 
-# 🏆 GitHub Trophies
+<h1 align="center">🏆 GitHub Trophies:</h1>
 ![](https://github-profile-trophy.vercel.app/?username=keshavpj1711&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
