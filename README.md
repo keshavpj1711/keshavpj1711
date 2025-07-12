@@ -11,7 +11,8 @@
 
 <h1 align="center">🧰 Projects</h1>
 
-Comming Soon...
+- Search Engine: [SearchEngine2.0](https://github.com/keshavpj1711/searchEng2.0)
+- GlyphGrab: [EmojiPicker](https://github.com/keshavpj1711/GlyphGrab)
 
 <br>
 
