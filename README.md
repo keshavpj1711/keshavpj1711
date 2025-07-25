@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently using **Python and JS**
 
-- 👨‍💻 Know more about me [Portfolio](https://my-dev-life.vercel.app/)
+- 👨‍💻 Know more about me here, at my [Portfolio](https://my-dev-life.vercel.app/)
 
 - 📫 How to reach me **keshavpj1711@gmail.com**
 
