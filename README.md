@@ -27,13 +27,13 @@ No tutorial clones. No fluff. Just **projects that solve real problems** — mos
 ## 💬 Let’s Connect
 
 - 🌐 [My Portfolio](https://my-dev-life.vercel.app/)
-- 📫 Reach me via email: `keshavpj1711 [at] gmail [dot] com`
+- 📫 `keshavpj1711@gmail.com`
 
 ---
 
 > _“Great engineers aren’t born. They’re built — layer by layer, one project at a time.”_
 
-## A Little More ...
+# A Little More ...
 
 <h2 align="center">🐧Language and Tools</h2>
 
