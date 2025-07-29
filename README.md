@@ -1,23 +1,41 @@
 <h1 align="center">Hi 👋, I'm Keshav Prajapati</h1>
-<h3 align="center">I'm a passionate explorer in the world of development, constantly soaking up knowledge and diverse perspectives as I forge my own path to personal satisfaction.</h3>
+<h3 align="center">Curious systems engineer in the making — solving problems one script, service, or system at a time.</h3>
 
-- 🌱 I’m currently using **Python and JS**
+I'm a 4th-year Electrical Engineering student at **IIT Kharagpur**, driven by curiosity and obsessed with backend architecture, automation, and building tools that make life easier.
 
-- 👨‍💻 Know more about me here, at my [Portfolio](https://my-dev-life.vercel.app/)
+No tutorial clones. No fluff. Just **projects that solve real problems** — most of which started with a small itch.
 
-- 📫 How to reach me **keshavpj1711@gmail.com**
+## 🛠️ What I Do
 
-<br>
+- 🧠 **Design & build systems** — from microservices to message queues to infrastructure as code.
+- 🐍 **Python first** — FastAPI, Celery, Redis, SQLAlchemy, Airflow — backend is where I thrive.
+- 🧪 **CI/CD & DevOps Learner** — Dockerized pipelines, IaC (Pulumi/Terraform), GitHub Actions, AWS.
+- ⚡ **Hackable workflows** — I use Arch Linux, write my own scripts, and customize everything I touch.
+- 🌱 **Always learning** — my projects evolve with me.
 
-<h1 align="center">🧰 Projects</h1>
+---
 
-- Search Engine: [SearchEngine2.0](https://github.com/keshavpj1711/searchEng2.0)
-- GlyphGrab: [EmojiPicker](https://github.com/keshavpj1711/GlyphGrab)
-- IaC Web Server Automation: [iac-webserver-automation](https://github.com/keshavpj1711/iac-webserver-automation)
-- GoChat (Live Chat Application): [GoChat](https://github.com/keshavpj1711/GoChat)
-<br>
+## 🧭 My Philosophy
 
-<h1 align="center">🐧Language and Tools</h1>
+- Build tools that you'd actually use.
+- Learn by breaking and fixing.
+- Don't rush the abstractions — understand the internals first.
+- No one teaches you system design better than Docker and pain.
+
+---
+
+## 💬 Let’s Connect
+
+- 🌐 [My Portfolio](https://my-dev-life.vercel.app/)
+- 📫 Reach me via email: `keshavpj1711 [at] gmail [dot] com`
+
+---
+
+> _“Great engineers aren’t born. They’re built — layer by layer, one project at a time.”_
+
+## A Little More ...
+
+<h2 align="center">🐧Language and Tools</h2>
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -47,7 +65,7 @@
 
 <br>
 
-<h1 align="center">📊 GitHub Stats:</h1>
+<h2 align="center">📊 GitHub Stats:</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavpj1711&layout=compact&theme=tokyonight&custom_title=Weapons&card_width=465&langs_count=8&hide=jupyter%20notebook,html,ejs)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -56,7 +74,7 @@
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=keshavpj1711&theme=tokyonight&card_width=465)](https://git.io/streak-stats)
 
 
-<h1 align="center">🏆 GitHub Trophies:</h1>
+<h2 align="center">🏆 GitHub Trophies:</h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=keshavpj1711&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
