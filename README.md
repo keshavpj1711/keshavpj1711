@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Keshav Prajapati</h1>
-<h3 align="center">Curious systems engineer in the making — solving problems one script, service, or system at a time.</h3>
+<h4 align="center">Curious systems engineer in the making — solving problems one script, service, or system at a time.</h4>
 
 I'm a 4th-year Electrical Engineering student at **IIT Kharagpur**, driven by curiosity and obsessed with backend architecture, automation, and building tools that make life easier.
 
 No tutorial clones. No fluff. Just **projects that solve real problems** — most of which started with a small itch.
+
+---
 
 ## 🛠️ What I Do
 
@@ -12,6 +14,17 @@ No tutorial clones. No fluff. Just **projects that solve real problems** — mos
 - 🧪 **CI/CD & DevOps Learner** — Dockerized pipelines, IaC (Pulumi/Terraform), GitHub Actions, AWS.
 - ⚡ **Hackable workflows** — I use Arch Linux, write my own scripts, and customize everything I touch.
 - 🌱 **Always learning** — my projects evolve with me.
+
+---
+
+## 📁 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🔍 [Scalable Search Engine](https://github.com/keshavpj1711/searchEng2.0) | TF-IDF ranked search with FastAPI, Redis, and Celery — containerized and built to scale. |
+| ⚙️ [IaC Web Sever Automation](https://github.com/keshavpj1711/iac-webserver-automation) | Automated web server deployment using Python, Pulumi and AWS — IaC from scratch |
+| 💬 [GoChat](https://github.com/keshavpj1711/GoChat) | Real time live chat application built using goroutines and channels — Pool and Client based chat |
+| 😜 [Emoji Picker](https://github.com/keshavpj1711/GlyphGrab) | Cross-Platform emoji picker app, with quick select and snappy workflow — lazy loading, de-bounce searching |
 
 ---
 
@@ -33,7 +46,7 @@ No tutorial clones. No fluff. Just **projects that solve real problems** — mos
 
 > _“Great engineers aren’t born. They’re built — layer by layer, one project at a time.”_
 
-# A Little More ...
+<h1 align="center">🤏Little More ...</h1>
 
 <h2 align="center">🐧Language and Tools</h2>
 
