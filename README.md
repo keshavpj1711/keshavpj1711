@@ -80,10 +80,11 @@ No tutorial clones. No fluff. Just **projects that solve real problems** — mos
 
 <h2 align="center">📊 GitHub Stats:</h2>
 
-<h2 align="center">📊 GitHub Stats:</h2>
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=keshavpj1711&layout=compact&theme=tokyonight&custom_title=Weapons&card_width=465&langs_count=8&hide=jupyter%20notebook,html,ejs)](https://github.com/anuraghazra/github-readme-stats)edit/main/README.md
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=keshavpj1711&layout=compact&theme=tokyonight&custom_title=Weapons&card_width=465&langs_count=8&hide=jupyter%20notebook,html,ejs)
+
 ![Keshav's Stats](https://github-readme-stats-fast.vercel.app/api?username=keshavpj1711&theme=tokyonight&show_icons=true&custom_title=My-Stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=keshavpj1711&theme=tokyonight&card_width=465)](https://git.io/streak-stats)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=keshavpj1711&theme=tokyonight&card_width=465)]
 
 
 <h2 align="center">🏆 GitHub Trophies:</h2>
