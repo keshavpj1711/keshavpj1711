@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keshav Prajapati</h1>
 <h4 align="center">Curious systems engineer in the making — solving problems one script, service, or system at a time.</h4>
 
-I'm a 4th-year Electrical Engineering student at **IIT Kharagpur**, driven by curiosity and obsessed with backend architecture, automation, and building tools that make life easier.
+I'm a 5th-year Electrical Engineering student at **IIT Kharagpur**, driven by curiosity and obsessed with backend architecture, automation, and building tools that make life easier.
 
 No tutorial clones. No fluff. Just **projects that solve real problems** — most of which started with a small itch.
 
