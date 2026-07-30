@@ -84,10 +84,10 @@ No tutorial clones. No fluff. Just **projects that solve real problems** — mos
 
 ![Keshav's Stats](https://github-readme-stats-fast.vercel.app/api?username=keshavpj1711&theme=tokyonight&show_icons=true&custom_title=My-Stats)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=keshavpj1711&theme=tokyonight&card_width=465)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=keshavpj1711&theme=tokyonight&card_width=465)
 
 
-<h2 align="center">🏆 GitHub Trophies:</h2>
+<!-- h2 align="center">🏆 GitHub Trophies:</h2>
 
-![](https://github-profile-trophy.vercel.app/?username=keshavpj1711&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=keshavpj1711&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
